@@ -109,7 +109,7 @@ nav .container-fluid {
 }
 
 .card-img:hover {
-  transform: translateY(-5px);
+  transform: scaleY(1.1);
   transition: all 0.3s ease-in-out;
 }
 
