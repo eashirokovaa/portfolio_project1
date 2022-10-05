@@ -150,21 +150,21 @@ nav.navbar {
 .btn-active__text {
   color: #53889d;
 }
-.main-section-books-list {
+.wishlist {
   column-count: 3;
   column-gap: 1em;
   filter: drop-shadow(1px 1px 10px rgba(78, 55, 55, 0.2));
 }
-.main-section-books-list__item > img {
+.wishlist__item > img {
   display: inline-block;
   width: 100%;
   max-width: 150px;
-  margin-bottom: 1em;
+  margin-bottom: 0.7em;
 }
-.main-section-books-list__link > a {
+.wishlist__link > a {
   color: #d96f6e;
 }
-.main-section-books-list__link {
+.wishlist__link {
   text-align: center;
   margin-bottom: 35px;
 }
@@ -345,10 +345,10 @@ nav.navbar {
   .btn-crime {
     width: 112px;
   }
-  .main-section-books-list {
+  .wishlist {
     column-count: 6;
   }
-  .main-section-books-list__item > img {
+  .wishlist__item > img {
     max-width: 180px;
   }
 }

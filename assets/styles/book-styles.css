@@ -119,39 +119,6 @@ nav .container-fluid {
 .btn-contemporary {
   width: 123px;
 }
-/* .section-link__link-decoration {
-  text-decoration: none;
-} */
-
-/* .section-link__genres_yellow-pink {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  margin-bottom: 32px;
-  width: 123px;
-  height: 24px;
-  font-family: "Montserrat", sans-serif;
-  font-weight: 700;
-  font-size: 12px;
-  color: #ffffff;
-  background: linear-gradient(90deg, #f2d05c 0%, #f3a492 100%);
-  border-radius: 8px;
-} */
-
-/* .section-link__genres_blue-baby {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  margin-bottom: 32px;
-  width: 128px;
-  height: 24px;
-  font-family: "Montserrat", sans-serif;
-  font-weight: 700;
-  font-size: 12px;
-  color: #ffffff;
-  background: linear-gradient(90deg, #53889d 0%, #bbd1d9 100%);
-  border-radius: 8px;
-} */
 
 .section-link__circle-icons {
   display: inline-block;
@@ -167,7 +134,7 @@ nav .container-fluid {
   margin: 32px 0 42px 0px;
 }
 .category__heading,
-.book__title {
+.publication__heading {
   font-family: "Playfair Display";
   font-style: normal;
   font-weight: 700;
@@ -175,7 +142,7 @@ nav .container-fluid {
   line-height: 27px;
   color: #000000;
 }
-.book__title {
+.publication__heading{
   font-size: 16px;
   line-height: 21px;
 }
@@ -188,13 +155,13 @@ nav .container-fluid {
 .similar-publications__content::-webkit-scrollbar {
   display: none;
 }
-.book__author,
+.publication__author,
 .publication__price {
   font-family: "Montserrat";
   font-style: normal;
   font-size: 12px;
 }
-.book__author {
+.publication__author {
   font-weight: 400;
   line-height: 140%;
   color: #4f4f4f;
