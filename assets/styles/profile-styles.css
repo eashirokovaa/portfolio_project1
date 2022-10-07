@@ -80,18 +80,18 @@ nav.navbar {
 .navbar-brand:hover {
   color: #000000;
 }
-.navbarTogglerDemo01 {
+.navbar-link {
   display: flex;
+  margin-left: 24px;
   font-family: "Montserrat";
   font-style: normal;
   font-weight: 700;
   font-size: 16px;
   line-height: 20px;
-  margin-left: 0.5rem;
-  padding-left: 0.3rem;
+
   color: #4f4f4f;
 }
-#navbarSupportedContent {
+.navbar-content {
   justify-content: flex-end;
   padding-right: 0;
   padding-left: 0;
