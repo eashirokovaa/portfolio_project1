@@ -211,7 +211,7 @@ nav.navbar {
   color: #4f4f4f;
 }
 
-.purchased-book-link {
+.purchased-book__link {
   text-decoration: none;
 }
 
@@ -219,7 +219,7 @@ nav.navbar {
   display: none;
 }
 
-.purchased-book-link:hover {
+.purchased-book__link:hover {
   text-decoration: underline;
   text-decoration-color: blue;
 }
