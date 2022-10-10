@@ -161,10 +161,10 @@ nav.navbar {
   max-width: 150px;
   margin-bottom: 0.7em;
 }
-.wishlist__link > a {
+.all-link > a {
   color: #d96f6e;
 }
-.wishlist__link {
+.all-link {
   text-align: center;
   margin-bottom: 35px;
 }

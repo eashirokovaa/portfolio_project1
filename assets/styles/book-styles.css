@@ -62,18 +62,18 @@ nav .container-fluid {
   width: 296px;
   left: 16px;
   top: 0px;
-  border-radius: 8px;  
+  border-radius: 8px;
 }
 
 .btn-prm {
   margin: 11px 0 8px 0;
-  background: #D96F6E;
-  border: 1px solid #D96F6E;
+  background: #d96f6e;
+  border: 1px solid #d96f6e;
 }
 
 .btn-scn {
-  background: #F3A492;
-  border: 1px solid #F3A492;
+  background: #f3a492;
+  border: 1px solid #f3a492;
 }
 
 .txt-pblsh {
@@ -146,7 +146,7 @@ nav .container-fluid {
   line-height: 27px;
   color: #000000;
 }
-.publication__heading{
+.publication__heading {
   font-size: 16px;
   line-height: 21px;
 }
@@ -238,6 +238,12 @@ nav .container-fluid {
   }
   .btn-fiction {
     width: 128px;
+  }
+  .book__button {
+    margin: auto;
+  }
+  .btn-scn {
+    margin-top: 10px;
   }
   .publication {
     width: 145px;
